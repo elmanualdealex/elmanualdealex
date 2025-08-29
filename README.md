@@ -2,12 +2,12 @@
 
 💻 **Ingeniero en Sistemas en formación** | 🚀 **Developer & Hacker Ético**  
 
-Soy un apasionado de la programación, el desarrollo de software y la creación de tecnología desde cero. Actualmente estoy aprendiendo y construyendo proyectos que van desde **kernels desde cero, hasta sistemas operativos propios**, además de aplicaciones SaaS y herramientas tecnológicas dentro de mi empresa **Scrolnet**.  
+Soy un apasionado de la programación, el desarrollo de software y la creación de tecnología desde cero. Actualmente estoy aprendiendo y construyendo proyectos que van desde **kernels desde cero, hasta sistemas operativos propios**, además de aplicaciones SaaS y herramientas tecnológicas dentro de mi empresa.
 
 ---
 
 ## 🔧 Tech Stack & Tools  
-- **Lenguajes**: C, C++, Rust, Python, Java, Bash  
+- **Lenguajes**: C, C++, Rust, Bash (low-level dev) 
 - **Sistemas**: Arch Linux (btw 😉), Fedora, Debian, Ubuntu, macOS  
 - **Áreas de interés**: OS Dev, AI, SaaS, Seguridad Informática, Diseño Web, Diseño Gráfico  
 - **Herramientas**: Git, Docker, NASM, Make, Neovim, GCC/Clang  
@@ -16,7 +16,6 @@ Soy un apasionado de la programación, el desarrollo de software y la creación 
 
 ## 🚀 Proyectos en progreso  
 - 🔹 **[OS Dev]** → Kernels y sistemas operativos propios.
-- 🔹 **[Scrolnet]** → Ecosistema de software, hardware y SaaS inspirado en la integración tecnológica.
 - 🔹 **[Python Projects]** → Física y matemáticas aplicadas en simulaciones y herramientas.
 
 ---
