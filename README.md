@@ -1,37 +1,37 @@
-# 👋 Hey, I’m Alex  
+# 👋 Hi, I’m Alex  
 
-💻 **Ingeniero en Sistemas en formación** | 🚀 **Developer & Hacker Ético** | 🖥️ **Low-Level Developer**
+💻 **Systems Engineer in Training** | 🚀 **Developer & Ethical Hacker** | 🖥️ **Low-Level Systems Developer**
 
-Soy un apasionado de la programación, el desarrollo de software y la creación de tecnología desde cero. Actualmente estoy aprendiendo y construyendo proyectos que van desde **kernels desde cero, hasta sistemas operativos propios**, además de aplicaciones SaaS y herramientas tecnológicas dentro de mi empresa.
-
----
-
-## 🔧 Tech Stack & Tools
-- **Lenguajes**: C, C++, Rust, Bash (low-level dev).
-- **Sistemas**: Arch Linux (btw 😉), Fedora, Debian, Ubuntu, macOS, Windows.  
-- **Áreas de interés**: OS Dev, AI, SaaS, Seguridad Informática, Diseño Web, Diseño Gráfico.
-- **Herramientas**: Git, Docker, NASM, Make, Neovim, GCC/Clang.
+I am passionate about software development, programming, and building technology from the ground up. I am currently learning and working on projects ranging from **custom kernels and operating systems** to SaaS applications and technological tools within my company.
 
 ---
 
-## 🚀 Proyectos en progreso  
-- 🔹 **[OS Dev]** → Kernels y sistemas operativos propios.
-- 🔹 **[Python Projects]** → Física y matemáticas aplicadas en simulaciones y herramientas.
-- 🔹 **[Aplicación web tipo SaaS]** → Proyecto secreto en progreso.
+## 🔧 Technical Skills & Tools
+- **Programming Languages:** C, C++, Rust, Bash (low-level development)  
+- **Operating Systems:** Arch Linux, Fedora, Debian, Ubuntu, Gentoo, macOS, Windows  
+- **Areas of Interest:** Operating System Development, AI, SaaS, Cybersecurity, Web & Graphic Design  
+- **Tools & Frameworks:** Git, Docker, NASM, Make, Neovim, GCC/Clang  
 
 ---
 
-## 📖 Actualmente aprendiendo  
-- Arquitectura de sistemas operativos 🖥️
-- Optimización y bajo nivel en C/C++
-- Física y matemáticas aplicadas con Python, C/C++ 📊
-- Seguridad informática y desarrollo de infraestructura SaaS ☁️
+## 🚀 Current Projects  
+- 🔹 **[OS Development]** → Developing custom kernels and operating systems.  
+- 🔹 **[Python Projects]** → Applied physics and mathematics for simulations and tools.  
+- 🔹 **[Web SaaS Application]** → Confidential project in progress.  
 
 ---
 
-## 🌍 Conecta conmigo  
+## 📖 Currently Learning  
+- Operating system architecture and low-level system design 🖥️  
+- Optimization and low-level programming in C/C++  
+- Applied physics and mathematics using Python and C/C++ 📊  
+- Cybersecurity practices and SaaS infrastructure development ☁️  
+
+---
+
+## 🌍 Connect with Me  
 - 📧 **elmanualdealexcontacto@gmail.com**
 
 ---
 
-✨ *“Aprendiz en todo, maestro en nada… pero muchas veces mejor que el maestro.”*
+✨ *“A lifelong learner in all things, master of none… but often surpassing the master.”*
