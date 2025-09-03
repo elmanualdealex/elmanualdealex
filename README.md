@@ -25,7 +25,8 @@ I am passionate about software development, programming, and building technology
 - Operating system architecture and low-level system design 🖥️  
 - Optimization and low-level programming in C/C++  
 - Applied physics and mathematics using Python and C/C++ 📊  
-- Cybersecurity practices and SaaS infrastructure development ☁️  
+- Cybersecurity practices and SaaS infrastructure development ☁️
+- LaTeX language for physics papers. 📑
 
 ---
 
