@@ -7,7 +7,7 @@ I am passionate about software development, programming, and building technology
 ---
 
 ## 🔧 Technical Skills & Tools
-- **Programming Languages:** C, C++, Rust, Bash (low-level development)  
+- **Programming Languages:** C, C++, Rust, Bash (low-level development) & C#
 - **Operating Systems:** Arch Linux, Fedora, Debian, Ubuntu, Gentoo, macOS, Windows  
 - **Areas of Interest:** Operating System Development, AI, SaaS, Cybersecurity, Web & Graphic Design  
 - **Tools & Frameworks:** Git, Docker, NASM, Make, Neovim, GCC/Clang  
