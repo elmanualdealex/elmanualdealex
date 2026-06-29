@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elmanualdealex&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmanualdealex&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI"/>
 </p>
 
@@ -17,9 +16,10 @@
 
 <h2 align="center">🚀 My Skills</h2>
 
-<h4 align="center">💻 Programming Languages</h4>
+<h4 align="center">💻 Programming Languages (and HTML)</h4>
 
 <p align="center">
+<a href="#"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white"></a>
 <a href="#"><img alt="C" src="https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white"></a>
 <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white"></a>
 <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
@@ -30,8 +30,6 @@
 <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white"></a>
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-<a href="#"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white"></a>
-<a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
 <h4 align="center">⚙ Software & Tools</h4>
@@ -41,7 +39,6 @@
 <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
 <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
 <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?logo=kalilinux&logoColor=white"></a>
-<a href="#"><img alt="BSD" src="https://img.shields.io/badge/BSD-AB2B28.svg?logo=freebsd&logoColor=white"></a>
 <a href="#"><img alt="Linux From Scratch" src="https://img.shields.io/badge/LFS-000000.svg?logo=linux&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-FF6F00.svg?logo=git&logoColor=white"></a>
 <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white"></a>
@@ -51,7 +48,6 @@
 <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VSCode-007ACC.svg?logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-019733.svg?logo=vim&logoColor=white"></a>
 <a href="#"><img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143.svg?logo=neovim&logoColor=white"></a>
-<a href="#"><img alt="Emacs" src="https://img.shields.io/badge/Emacs-7F5AB6.svg?logo=gnu-emacs&logoColor=white"></a>
 </p>
 
 <h4 align="center">☁ Cloud & Databases</h4>
